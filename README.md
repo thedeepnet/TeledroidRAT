@@ -71,13 +71,13 @@
   </a>
 </p>
 
+
+
+## 🌐 How to Host the Server on Render.com
+- **Follow these steps:**
+
 ```
-
-
-🌐 How to Host the Server on Render.com
-Follow these steps:
-
-```bash
+bash
 1. Download the files from the repository.
 2. Create a GitHub account.
 3. Create a private repository and upload all files (server.js, package.json, data.json).
@@ -90,9 +90,7 @@ Follow these steps:
 10. Return to Render.com, open your project, and deploy the latest commits.
 11. Wait for the terminal confirmation that your service is live.
 12. Go to Telegram and start your bot. Enjoy!
-
 ```
-
 
 
 ## Edit apk
