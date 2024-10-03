@@ -133,7 +133,7 @@ bash
 </p><p align="center">
   <b><i>Attention:</i></b> This tool must not be used for illegal or unethical activities. The user accepts full responsibility for its use.
 </p><p align="center">
-  <b><i>Important:</i></b> To avoid fraud, verify that the Instagram username is <a href="https://t.me.com/the_deepnet"><code>@THE_DEEPNET</code></a> and the Telegram handle is <a href="https://t.me/the_deepnet"><code>@THE_DEEPNET</code></a>. Be wary of scams or phishing attempts using similar usernames.
+  <b><i>Important:</i></b> To avoid fraud, verify that the Instagram username is <a href="https://instagram.com/the_deepnet"><code>@THE_DEEPNET</code></a> and the Telegram handle is <a href="https://t.me/the_deepnet"><code>@THE_DEEPNET</code></a>. Be wary of scams or phishing attempts using similar usernames.
 </p><p align="center">
   <b><i>Thank you for choosing TeledroidRAT! We hope it helps you achieve your goals.</i></b>
 </p>
