@@ -143,7 +143,7 @@ bash
 <h1 align="center">💖 Sponsorship</h1>
 <p align="center">If you appreciate my work, consider sponsoring me. Your contributions will support ongoing development and inspire new projects.</p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/muneebwanee">
+  <a href="https://www.buymeacoffee.com/muneb">
     <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
   </a>
 </p><p align="center">Special thanks to the following supporters:</p>
