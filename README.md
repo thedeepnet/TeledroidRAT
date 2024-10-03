@@ -71,7 +71,7 @@
   </a>
 </p>
 
----
+```
 
 ## 🌐 How to Host the Server on Render.com
 ### Follow these steps:
@@ -89,36 +89,25 @@
 11. Wait for the terminal confirmation that your service is live.
 12. Go to Telegram and start your bot. Enjoy!
 
----
-
-📱 Edit APK
-
-1. Open APK Editor.
-
-
-2. Select the APK file.
-
-
-3. Choose "Full Edit."
-
-
-4. Decode all files.
-
-
-5. Navigate to the assets folder.
-
-
-6. Open host.json and enter the URL.
-
-
-7. Build the APK and start the bot. Enjoy!
+```
 
 
 
-Example URL
+## Edit apk
+ - Open Apk editor 
+ - select apk
+ - choose full edit
+ - select decode all files
+ - go to assets folder
+ - open host.json
+ - and enter url
+ - build apk ,start the bot  Enjoy
 
-https://yourRENDERURL.com/
+## example
+```bash  
+  https://yourRENDERURL.com/
 
+```
 
 ---
 
@@ -134,6 +123,7 @@ https://yourRENDERURL.com/
     <img src="https://img.shields.io/badge/CONTACT-TWITTER-blue?style=for-the-badge&logo=twitter" alt="Twitter" />
   </a>
 </p>
+
 ---
 
 <p align="center">
@@ -147,20 +137,21 @@ https://yourRENDERURL.com/
 </p><p align="center">
   <b><i>Thank you for choosing TeledroidRAT! We hope it helps you achieve your goals.</i></b>
 </p>
+
 ---
 
 <h1 align="center">💖 Sponsorship</h1>
 <p align="center">If you appreciate my work, consider sponsoring me. Your contributions will support ongoing development and inspire new projects.</p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/the_deepnet">
+  <a href="https://www.buymeacoffee.com/muneebwanee">
     <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
   </a>
 </p><p align="center">Special thanks to the following supporters:</p>
 <div align="center">
-  <a href="https://github.com/the_deepnet/TeledroidRAT/stargazers">
-    <img src="https://reporoster.com/stars/dark/the_deepnet/TeledroidRAT" alt="Stargazers" title="Stargazers" width="400" height="auto">
-  </a>  <a href="https://github.com/the_deepnet/TeledroidRAT/network/members">
-    <img src="https://reporoster.com/forks/dark/the_deepnet/TeledroidRAT"alt="Forkers" title="Forkers" width="400" height="auto">
+  <a href="https://github.com/thedeepnet/TeledroidRAT/stargazers">
+    <img src="https://reporoster.com/stars/dark/thedeepnet/TeledroidRAT" alt="Stargazers" title="Stargazers" width="400" height="auto">
+  </a>  <a href="https://github.com/thedeepnet/TeledroidRAT/network/members">
+    <img src="https://reporoster.com/forks/dark/thedeepnet/TeledroidRAT"alt="Forkers" title="Forkers" width="400" height="auto">
   </a>
 </div>
 ```
