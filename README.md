@@ -73,8 +73,10 @@
 
 ```
 
-## 🌐 How to Host the Server on Render.com
-### Follow these steps:
+
+🌐 How to Host the Server on Render.com
+Follow these steps:
+
 ```bash
 1. Download the files from the repository.
 2. Create a GitHub account.
